@@ -1,7 +1,7 @@
 # Plotly Demo
 ## Python Meetup, September 13th 2016
 
-This repository contains the instructional slides, data, and code from the September 13th, 2016 Tucson AZ Python Meetup Plotly demo. 
+This repository contains the instructional slides, data, and code from the September 13th, 2016 Tucson AZ Python Meetup & September 28th, 2016 Tucson Data Science Meetup Plotly demos. 
 
 Created by Asher Baltzell (@asherkhb) and Blake Joyce (@bjoyce3). 
 
@@ -22,6 +22,8 @@ Description of contents...
   * Data for plotly-demo.ipynb Example #2: Fractionation Bias Plot.
 * __plotly-help-demo.ipynb__
   * IPython Jupyter notebook containing information on getting more help with Plotly & docstring query examples.
+* __datasci-demo.ipynb__
+  * IPython Jupyter notebook containing demo from 2016-09-28 Data Science Tucscon meetup.
 * __requirements.txt__
   * PIP freeze of all packages used in the demonstrations.
   * Please note that these examples all use __Python 2.7.11__
